@@ -43,7 +43,7 @@ abstract shape
 - experimented with numbers and negatives 
 
 
-dot brush 
+dot brush (unnamed) 
 
 - demonstrates "if" and "else" functions
 - selected colour palette which is able to paint a tree (brown and green)
