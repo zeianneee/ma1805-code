@@ -1,5 +1,5 @@
 - really loved the pi shape so wanted to discover new ways to utilise it
-- looked on p5.js website and found a guide on how to make a moving pac man
+- looked on p5.js website and found a guide on how to make a moving pac man- used this code as my foundation 
 - wanted to make the image more detailed so incorporated a variety of shapes including squares (to make the pellets) and circles/ellipses (to make the eyes), makes image feel more alive/cartoon-like
 - no reason for why he's purple. he just is!
 
